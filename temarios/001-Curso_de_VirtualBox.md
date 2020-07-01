@@ -45,13 +45,13 @@ Para realizar este *Curso de VirtualBox* **no se necesitan conocimientos técnic
 
 6 secciones - 25 clases - 2h 14m de duración total
 
-### Sección 1:Introducción 2 min
+### Sección 1: [Introducción](/temarios/001_Curso_de_VirtualBox/01_Introduccion.md) 2 min
 
-   * 01 [Presentación del curso](/temarios/001_Curso_de_VirtualBox/01_Presentacion_del_curso.md) 02:26 min
+   * 01 Presentación del curso 02:26 min
 
-### Sección 2: Conociendo VirtualBox 26 min
+### Sección 2: [Conociendo VirtualBox](/temarios/001_Curso_de_VirtualBox/02_Conociendo_VirtualBox.md) 26 min
 
-   * 02 [VirtualBox y las máquinas virtuales](/temarios/001_Curso_de_VirtualBox/02_VirtualBox_%20y_las_maquinas_virtuales.md) 04:50 min
+   * 02 VirtualBox y las máquinas virtuales 04:50 min
    * 03 Ventajas e inconvenientes de las máquinas virtuales 04:24 min
    * 04 Instalación de VirtualBox 06:16
    * 05 Nuestra primera máquina virtual 09:07

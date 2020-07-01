@@ -157,7 +157,7 @@ Una vez allí vamos a session download descargas y descargamos la última versi�
 
 Y guardamos el archivo.
 
-<img src="images/04-08.png">
+<img src="images/04-08-2.png">
 
 Una vez descargado el instalador lo ejecutamos y nos saldrá un wizar como este.
 
@@ -197,43 +197,87 @@ y a la derecha aparecerán las propiedades de esas máquinas.
 
 Tenemos aquí un botón para crear una nueva máquina y diferentes opciones ayuda, opciones relacionadas con las máquinas 
 
-<img src="images/04-19.png">AQUIIIII
+<img src="images/04-19.png">
 
-y aquí tenemos esta opción de preferencias qué es lo que vamos ahora potencial de la aplicación en general bien vamos a ampliarlo un poco para verlo mejor me arrime la pestaña General podemos cambiar lo que es la carpeta predeterminada para las máquinas virtuales si tenemos por ejemplo un segundo disco duro con más espacio pues podemos indicar aquí una carpeta en ese segundo disco duro y dejar libre por ejemplo no me hace aquí vemos los dirigentes atasco en el teclado tanto en la aplicación como en la máquina virtual la opción de comprobar actualizaciones cada X tiempo para que la aplicación comprueba a través de Internet si hay versiones nuevas y actualice o no el idioma me me apuesto a español porque es el idioma que tiene sistema operativo por defecto entonces lo ha cogido también por defecto aunque posteriormente ya ves que se puede cambiar desde aquí indicar un tamaño de pantalla máximo para lo que es el huésped si queremos que no sobrepase esa dimensiones en mi caso yo lo he dejado automático y tal y como viene porque me puede interesar cambiar ese tamaño en cualquier momento opciones de red extensiones son diferentes extensiones que podemos instalar a VirtualBox para darle mayor capacidad y opciones de proxy si estamos conectados a Internet a través de un proxy pues lo haríamos aquí una vez que hemos instalado VirtualBox una de las cosas necesarias que debemos instalar es el extensión pack extensión pack se distribuye de forma gratuita a través de la página web oficial de Virtual Box y bueno no va a dar soporte para dispositivos USB 2.0 RDP IPX entre otras cosas también que podéis ver dentro de la documentación oficial de la página web son varias las cosas que nos proporciona y es muy muy recomendable instalarlo este extensión pack sea instalar dentro de las extensiones hemos visto anteriormente que había una opción de la aplicación en VirtualBox para instalar extensiones puestas tensión para que es precisamente eso una extensión que se instala en la aplicación y qué bueno por los da una serie de características adicionales y como veis C&A la versión del extensión pack tengo incidir con la pensión de la aplicación este caso vamos a descargar la extensión para VirtualBox 502 ahora hemos estado viendo conceptos teóricos básicos en la máquina virtual es que soy y qué ventajas e inconvenientes presenta también hemos conocido de pasada al que está bonita de este curso Virtual Box pero esa hora en esta clase cuando vamos a conocer los de primera mano le damos aquí ya nos dice que está extensión pack sirven para todas las plataformas es independiente del sistema operativo del anfitrión vamos aquí y le vamos a dejar que lo abra directamente con VirtualBox manager decir que lo haga la propia aplicación 9 descargado una vez descargado no se lanza la pregunta se abre directamente VirtualBox y nos lanza la pregunta queremos instalar extensión pack tenemos a instalar y bueno nos viene aquí una licencia que debemos de leer y de aceptar para VirtualBox vamos a comprobarlo nos vamos aquí archivo preferencias extensiones y hemos que aquí está instalado Oracle VM VirtualBox extensión pack para versión 502 y con esto ya tenemos instalado VirtualBox en nuestro equipo estamos preparados para la siguiente clase la cual dedicaremos a crear nuestra primera máquina virtual
+Y aquí tenemos esta opción de preferencias qué es lo que vamos a ver ahora.
 
-
-
-
-###10
-
-
-
-
-
-###20
-<img src="images/04-20.png">
 <img src="images/04-21.png">
-<img src="images/04-22.png">
+
+Vamos a ampliarlo un poco para verlo mejor.
+
 <img src="images/04-23.png">
+
+En la pestaña General podemos cambiar lo que es la carpeta predeterminada para las máquinas virtuales, si tenemos por ejemplo un segundo disco duro con más espacio pues podemos indicar aquí una carpeta en ese segundo disco duro y dejar libre por ejemplo la unidad C. 
+
 <img src="images/04-24.png">
+
+En la pestaña Entradas vemos los difentes atasjos en el teclado tanto en la aplicación como en la máquina virtual.
+
 <img src="images/04-25.png">
+
+La opción de comprobar Actualizaciones cada X tiempo para que la aplicación comprueba a través de Internet si hay versiones nuevas y actualice o no.
+
 <img src="images/04-26.png">
+
+El la pestaña Idioma me apuesto español porque es el idioma que tiene el sistema operativo por defecto entonces lo ha cogido también por defecto, aunque posteriormente ya ves que se puede cambiar.
+
 <img src="images/04-27.png">
+
+En la pestaña Pantalla indicar un tamaño de pantalla máximo para lo que es el huésped si queremos que no sobrepase esa dimensiones en mi caso yo lo he dejado automático y tal y como viene porque me puede interesar cambiar ese tamaño en cualquier momento.
+
 <img src="images/04-28.png">
+
+Opciones de red.
+
+<img src="images/04-28-2.png">
+
+Extensiones son diferentes extensiones que podemos instalar a VirtualBox para darle mayor capacidad.
+
 <img src="images/04-29.png">
-###30
-<img src="images/04-30.png">
-<img src="images/04-31.png">
+
+Y opciones de proxy si estamos conectados a Internet a través de un proxy pues lo haríamos aquí.
+
 <img src="images/04-32.png">
+
+Una vez que hemos instalado VirtualBox una de las cosas necesarias que debemos instalar es el Extension Pack.
+
+El Extension Pack se distribuye de forma gratuita a través de la página web oficial de Virtual Box y bueno no va a dar soporte para dispositivos USB 2.0, RDP y IPX entre otras cosas también que podéis ver dentro de la documentación oficial de la página web, son varias las cosas que nos proporciona y es muy muy recomendable instalarlo. Este Extension Pack se va a instalar dentro de las extensiones, hemos visto anteriormente que había una opción de la aplicación en VirtualBox para instalar extensiones. Esta Extension Pack es precisamente eso una extensión que se instala en la aplicación y qué nos da una serie de características adicionales. 
+
 <img src="images/04-33.png">
+
+Como ves la versión del Extension Pack tiene que coincidir con la version de la aplicación, en este caso nos vamos a descargar la Extension Pack para VirtualBox 5.0.2 que es la misma versión que hemos instalado anteriormente. 
+
 <img src="images/04-34.png">
+
+Entonces le damos aquí nos dice que está Extension Pack sirven para todas las plataformas es independiente del sistema operativo, del anfitrión.
+
 <img src="images/04-35.png">
+
+Vamos aquí y le vamos a dejar que lo abra directamente con VirtualBox manager, es decir que lo abra la propia aplicación una vez descargado.
+
 <img src="images/04-36.png">
+
+Una vez descargado nos lanza la pregunta, se abre directamente VirtualBox y nos lanza la pregunta queremos instalar Extension Pack le damos a instalar.
+
 <img src="images/04-37.png">
+
+Y bueno nos viene aquí una licencia que debemos de leer y de aceptar.
+
 <img src="images/04-38.png">
+
 <img src="images/04-39.png">
+
+Y con esto ya tendríamos instalado lo que es el Extension Pack para Virtual Box.
+
 <img src="images/04-40.png">
+
+Vamos a comprobarlo nos vamos a Archivo - Preferencias - Extensiones y vemos que está instalado Oracle VM VirtualBox Extension Pack para versión 5.0.2 y con esto ya tenemos instalado VirtualBox en nuestro equipo.
+
 <img src="images/04-41.png">
+
+Estamos preparados para la siguiente clase la cual dedicaremos a crear nuestra primera máquina virtual
+
+# 05 Nuestra primera máquina virtual 09:07
 
 
 

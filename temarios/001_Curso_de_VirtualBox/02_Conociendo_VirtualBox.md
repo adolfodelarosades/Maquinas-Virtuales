@@ -141,6 +141,7 @@ Como hemos visto no todo es perfecto en el mundo de las máquinas virtuales tene
 <img src="images/04-07.png">
 <img src="images/04-08.png">
 <img src="images/04-09.png">
+###10
 <img src="images/04-10.png">
 <img src="images/04-11.png">
 <img src="images/04-12.png">
@@ -151,6 +152,7 @@ Como hemos visto no todo es perfecto en el mundo de las máquinas virtuales tene
 <img src="images/04-17.png">
 <img src="images/04-18.png">
 <img src="images/04-19.png">
+###20
 <img src="images/04-20.png">
 <img src="images/04-21.png">
 <img src="images/04-22.png">
@@ -161,6 +163,7 @@ Como hemos visto no todo es perfecto en el mundo de las máquinas virtuales tene
 <img src="images/04-27.png">
 <img src="images/04-28.png">
 <img src="images/04-29.png">
+###30
 <img src="images/04-30.png">
 <img src="images/04-31.png">
 <img src="images/04-32.png">

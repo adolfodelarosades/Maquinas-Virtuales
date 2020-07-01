@@ -277,7 +277,33 @@ Vamos a comprobarlo nos vamos a Archivo - Preferencias - Extensiones y vemos que
 
 Estamos preparados para la siguiente clase la cual dedicaremos a crear nuestra primera máquina virtual
 
-# 05 Nuestra primera máquina virtual 09:07
+### Instalacón en mi Ordenador Mac
+
+<img src="images/04-50.png">
+
+<img src="images/04-51.png">
+
+<img src="images/04-52.png">
+
+<img src="images/04-53.png">
+
+<img src="images/04-54.png">
+
+<img src="images/04-55.png">
+
+<img src="images/04-56.png">
+
+<img src="images/04-57.png">
+
+<img src="images/04-58.png">
+
+<img src="images/04-59.png">
+
+<img src="images/04-60.png">
+
+<img src="images/04-61.png">
+
+## 05 Nuestra primera máquina virtual 09:07
 
 
 

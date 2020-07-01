@@ -67,23 +67,23 @@ Para realizar este *Curso de VirtualBox* **no se necesitan conocimientos técnic
 
 ### Conceptos Avanzados: Sacando el máximo rendimiento a VirtualVox 54 min
 
-   * 07 Guest Additions: mayor rendimiento y usabilidad en VirtualBox 04:20
-   * 08 Los modos de pantalla: ventana, pantalla completa, fluido y escalado. 07:45
-   * 09 El portapapeles compartido: copia y pega desde cualquier lugar 03:44
-   * 10 Carpetas compartidas (shared-folders) 06:56
-   * 11 Conectar dispositivos USB a la máquina virtual 05:01
-   * 12 Instantáneas de la máquina virtual: congela el momento 08:45
-   * 13 Screencast del huésped 06:19
-   * 14 Clonación de máquinas virtuales 06:28
-   * 15 Copias de seguridad (y migración) de máquinas virtuales 04:43
+   * 09 Guest Additions: mayor rendimiento y usabilidad en VirtualBox 04:20
+   * 10 Los modos de pantalla: ventana, pantalla completa, fluido y escalado. 07:45
+   * 11 El portapapeles compartido: copia y pega desde cualquier lugar 03:44
+   * 12 Carpetas compartidas (shared-folders) 06:56
+   * 13 Conectar dispositivos USB a la máquina virtual 05:01
+   * 14 Instantáneas de la máquina virtual: congela el momento 08:45
+   * 15 Screencast del huésped 06:19
+   * 16 Clonación de máquinas virtuales 06:28
+   * 17 Copias de seguridad (y migración) de máquinas virtuales 04:43
    * Preguntas sobre conceptos avanzados 8 preguntas
    * Resumen 1 páginas
 
 ### Ejercicio práctico avanzado: Desarrollo web LAMP bajo Windows con VirtualBox 16 min
 
-   * 16 Introducción al desarrollo LAMP con VirtualBox 01:24
-   * 17 Instalación de Xubuntu 14.04 en VirtualBox 09:39
-   * 18 Instalación de Apache, MySQL y PHP. 04:47
+   * 18 Introducción al desarrollo LAMP con VirtualBox 01:24
+   * 19 Instalación de Xubuntu 14.04 en VirtualBox 09:39
+   * 20 Instalación de Apache, MySQL y PHP. 04:47
    * Resumen 1 páginas
 
 ### Finalizando el Curso

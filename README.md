@@ -4,4 +4,4 @@ Esta es una serie de varios cursos de Máquinas Virtuales que se listan a contin
 
 ## UDEMY
 
-* [001 Curso de VirtualBox](https://github.com/adolfodelarosades/Java/blob/master/temarios/101_Java_8_desde_Cero.md)
+* [001 Curso de VirtualBox](/temarios/001-Curso_de_VirtualBox.md)

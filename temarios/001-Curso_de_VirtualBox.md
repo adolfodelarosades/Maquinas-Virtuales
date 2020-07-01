@@ -47,14 +47,14 @@ Para realizar este *Curso de VirtualBox* **no se necesitan conocimientos técnic
 
 ### Sección 1:Introducción 2 min
 
-   * 01. Presentación del curso 02:26 min
+   * 01 Presentación del curso 02:26 min
 
 ### Sección 2: Conociendo VirtualBox 26 min
 
-   * 02. VirtualBox y las máquinas virtuales 04:50 min
-   * 03. Ventajas e inconvenientes de las máquinas virtuales 04:24 min
-   * 04. Instalación de VirtualBox 06:16
-   * 05. Nuestra primera máquina virtual 09:07
+   * 02 VirtualBox y las máquinas virtuales 04:50 min
+   * 03 Ventajas e inconvenientes de las máquinas virtuales 04:24 min
+   * 04 Instalación de VirtualBox 06:16
+   * 05 Nuestra primera máquina virtual 09:07
    * Preguntas sobre máquinas virtuales y VirtualBox 8 preguntas
    * Resumen 1 páginas
 

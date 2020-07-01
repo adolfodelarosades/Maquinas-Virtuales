@@ -47,7 +47,7 @@ Para realizar este *Curso de VirtualBox* **no se necesitan conocimientos técnic
 
 ### Sección 1:Introducción 2 min
 
-   * 01 Presentación del curso 02:26 min
+   * 01 [Presentación del curso](/temarios/001_Curso_de_VirtualBox) 02:26 min
 
 ### Sección 2: Conociendo VirtualBox 26 min
 

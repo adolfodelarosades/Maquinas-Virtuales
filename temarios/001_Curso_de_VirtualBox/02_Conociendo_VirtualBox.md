@@ -124,7 +124,55 @@ El sistema operativo anfitrión pasará a disponer de solo 2,5 GB de memoria RAM
 
 Como hemos visto no todo es perfecto en el mundo de las máquinas virtuales tenemos puntos a favor pero también tenemos puntos en contra, lo importante de todo esto es conocer estos puntos y saber cuándo y en qué condiciones nos interesa utilizar una máquina virtual y de qué forma hacerlo, es decir saber configurar nuestra máquina virtual para que conmigo en armonía con su anfitrión y sobre todo no te asustes por tanta teoría la siguiente clase ya será de corte práctico empezando por la instalación de VirtualBox
 
+# 04 Instalación de VirtualBox 06:16
 
+[VirtualBox](https://www.virtualbox.org/)
+
+[Installing Oracle VM VirtualBox and Extension Packs](https://www.virtualbox.org/manual/ch01.html#intro-installing)
+
+, hasta ahora hemos estado viendo conceptos teóricos básicos en torno a las máquinas virtuales que son y qué ventajas e inconvenientes presentan también hemos conocido de pasada al protagonista de este curso VirtualBox pero es ahora en esta clase cuando vamos a conocerlo de primera mano vamos a dedicar la por completo a la instalación de VirtualBox en nuestro equipo para así poder empezar a trabajar con esta aplicación en casas posteriores descargar VirtualBox abrimos una ventana del navegador y vamos a la dirección web virtualbox.org qué es la el sitio web oficial de VirtualBox una vez allí vamos a session download descargas y descargamos la última versión estable que en este caso en las 5.02 en mi casa o fiesta doble no máquina con Windows entonces el hijo está haciendo aquí como hemos es la misma versión tanto para 32 como para 64bits y que pinchamos aquí y guardamos el archivo una vez descargado el instalador lo ejecutamos y nos saldrá un wither como este vamos a siguiente y bueno aquí elegimos qué módulos queremos instalar por defecto vienen todos y así lo voy a dejar porque cuando esté en la aplicación de Virtual Box soporte para USB soporte para redes etcétera luego aquí el destino te envía dejaré que viene por defecto siguiente siguiente y bueno aquí nos avisa que al instalar el soporte para redes podemos ser desconectados temporalmente de la red creemos que hacer con esta oración le decimos que sí instalar y una vez instalada la aplicación la abrimos para echarle un primer vistazo y aquí tenemos la pantalla principal y VirtualBox aquí a la izquierda en este recuadro en blanco y aparecerá en cada una de las máquinas que vayamos creando y a la derecha aparecerán las propiedades de esas máquinas tenemos aquí un botón para crear una nueva máquina y diferentes opciones ayuda opciones relacionadas con las máquinas y aquí tenemos esta opción de preferencias qué es lo que vamos ahora potencial de la aplicación en general bien vamos a ampliarlo un poco para verlo mejor me arrime la pestaña General podemos cambiar lo que es la carpeta predeterminada para las máquinas virtuales si tenemos por ejemplo un segundo disco duro con más espacio pues podemos indicar aquí una carpeta en ese segundo disco duro y dejar libre por ejemplo no me hace aquí vemos los dirigentes atasco en el teclado tanto en la aplicación como en la máquina virtual la opción de comprobar actualizaciones cada X tiempo para que la aplicación comprueba a través de Internet si hay versiones nuevas y actualice o no el idioma me me apuesto a español porque es el idioma que tiene sistema operativo por defecto entonces lo ha cogido también por defecto aunque posteriormente ya ves que se puede cambiar desde aquí indicar un tamaño de pantalla máximo para lo que es el huésped si queremos que no sobrepase esa dimensiones en mi caso yo lo he dejado automático y tal y como viene porque me puede interesar cambiar ese tamaño en cualquier momento opciones de red extensiones son diferentes extensiones que podemos instalar a VirtualBox para darle mayor capacidad y opciones de proxy si estamos conectados a Internet a través de un proxy pues lo haríamos aquí una vez que hemos instalado VirtualBox una de las cosas necesarias que debemos instalar es el extensión pack extensión pack se distribuye de forma gratuita a través de la página web oficial de Virtual Box y bueno no va a dar soporte para dispositivos USB 2.0 RDP IPX entre otras cosas también que podéis ver dentro de la documentación oficial de la página web son varias las cosas que nos proporciona y es muy muy recomendable instalarlo este extensión pack sea instalar dentro de las extensiones hemos visto anteriormente que había una opción de la aplicación en VirtualBox para instalar extensiones puestas tensión para que es precisamente eso una extensión que se instala en la aplicación y qué bueno por los da una serie de características adicionales y como veis C&A la versión del extensión pack tengo incidir con la pensión de la aplicación este caso vamos a descargar la extensión para VirtualBox 502 ahora hemos estado viendo conceptos teóricos básicos en la máquina virtual es que soy y qué ventajas e inconvenientes presenta también hemos conocido de pasada al que está bonita de este curso Virtual Box pero esa hora en esta clase cuando vamos a conocer los de primera mano le damos aquí ya nos dice que está extensión pack sirven para todas las plataformas es independiente del sistema operativo del anfitrión vamos aquí y le vamos a dejar que lo abra directamente con VirtualBox manager decir que lo haga la propia aplicación 9 descargado una vez descargado no se lanza la pregunta se abre directamente VirtualBox y nos lanza la pregunta queremos instalar extensión pack tenemos a instalar y bueno nos viene aquí una licencia que debemos de leer y de aceptar para VirtualBox vamos a comprobarlo nos vamos aquí archivo preferencias extensiones y hemos que aquí está instalado Oracle VM VirtualBox extensión pack para versión 502 y con esto ya tenemos instalado VirtualBox en nuestro equipo estamos preparados para la siguiente clase la cual dedicaremos a crear nuestra primera máquina virtual
+
+<img src="images/04-01.png">
+<img src="images/04-02.png">
+<img src="images/04-03.png">
+<img src="images/04-04.png">
+<img src="images/04-05.png">
+<img src="images/04-06.png">
+<img src="images/04-07.png">
+<img src="images/04-08.png">
+<img src="images/04-09.png">
+<img src="images/04-10.png">
+<img src="images/04-11.png">
+<img src="images/04-12.png">
+<img src="images/04-13.png">
+<img src="images/04-14.png">
+<img src="images/04-15.png">
+<img src="images/04-16.png">
+<img src="images/04-17.png">
+<img src="images/04-18.png">
+<img src="images/04-19.png">
+<img src="images/04-20.png">
+<img src="images/04-21.png">
+<img src="images/04-22.png">
+<img src="images/04-23.png">
+<img src="images/04-24.png">
+<img src="images/04-25.png">
+<img src="images/04-26.png">
+<img src="images/04-27.png">
+<img src="images/04-28.png">
+<img src="images/04-29.png">
+<img src="images/04-30.png">
+<img src="images/04-31.png">
+<img src="images/04-32.png">
+<img src="images/04-33.png">
+<img src="images/04-34.png">
+<img src="images/04-35.png">
+<img src="images/04-36.png">
+<img src="images/04-37.png">
+<img src="images/04-38.png">
+<img src="images/04-39.png">
+<img src="images/04-40.png">
+<img src="images/04-41.png">
 
 
 
